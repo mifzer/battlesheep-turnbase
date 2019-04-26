@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d4456d1cf5e6a7e4a87ac3d012e3b1b2
+timeCreated: 1516129077
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shaun the Sheep
+  fontNames:
+  - Shaun the Sheep
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3 @@
+On a player's turn, the player takes as many sheep from their own stack as they wish (provided that at least one sheep stays in place), and moves them in any direction as far as they can go, until they hit the edge of the board or other sheep. This causes the stacks to divide and the sheep to take up more space on the pasture. The play then proceeds cycling through the players, eventually skipping players who are unable to move any of their sheep.
+
+The game ends when none of the players can move, at which point the player whose sheep take up the most space on the board wins.

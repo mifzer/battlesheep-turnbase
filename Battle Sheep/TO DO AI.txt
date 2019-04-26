@@ -1,0 +1,6 @@
+AI report talking points:
+- How my AI searches and determines positive outcomes and how that can be applied to general searching
+	- Inspired by A* path searching
+	- Searching can be applied generally but rules are specific
+		- expand how this can be applied to other games? Board games and otherwise? (Civ, monopoly, chess)
+	

@@ -1,0 +1,5 @@
+https://answers.unity.com/questions/996658/accurate-mouse-snap-to-grid-within-threshold-float.html
+
+SNAP MOUSE TO GRID FOR PLACING TILE
+
+SELECT A TILE/RAYCAST, ALL TILES UNDERNEATH IT BECOME GREEN ALSO
